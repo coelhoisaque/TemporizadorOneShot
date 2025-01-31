@@ -12,7 +12,7 @@ Projeto para Raspberry Pi Pico W que controla uma sequência de LEDs com tempori
 
 ## Configuração do Hardware (Wokwi)
 
-![Diagrama de conexão](assets\image.png)
+![Diagrama de conexão](https://github.com/user-attachments/assets/00417571-b0f1-4c3f-ba99-f6db91f5b4aa)
 
 Componentes:
 - Raspberry Pi Pico W

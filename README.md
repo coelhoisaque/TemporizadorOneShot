@@ -1,4 +1,4 @@
-# Atividade 02 - Temporizador One Shot para LEDs
+# Atividade 2: Temporizador de um disparo (One Shot).
 
 Projeto para Raspberry Pi Pico W que controla uma sequência de LEDs com temporização através de um botão, usando callbacks de alarme.
 

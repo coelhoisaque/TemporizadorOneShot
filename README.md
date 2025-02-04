@@ -12,7 +12,7 @@ Projeto para Raspberry Pi Pico W que controla uma sequência de LEDs com tempori
 
 ## Configuração do Hardware (Wokwi)
 
-![Diagrama de conexão](https://github.com/user-attachments/assets/00417571-b0f1-4c3f-ba99-f6db91f5b4aa)
+![Diagrama de conexão]([https://github.com/user-attachments/assets/00417571-b0f1-4c3f-ba99-f6db91f5b4aa](https://raw.githubusercontent.com/coelhoisaque/TemporizadorOneShot/refs/heads/main/assets/image.png?token=GHSAT0AAAAAAC4DNZQRBIAYJUAR3PU7A6TWZ5BPMDQ)
 
 Componentes:
 - Raspberry Pi Pico W
